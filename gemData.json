@@ -1,0 +1,62 @@
+{
+    "lapis_lazuli": {
+        "attack_speed": 9,
+        "range" : 9
+    },
+
+    "larimar": {
+        "attack_speed": 9,
+        "haste" : 9
+    },
+
+    "agate": {
+        "size": 6,
+        "defense" : 39
+    },
+
+    "malachite": {
+        "power": 4,
+        "size" : 6
+    },
+    
+    "candelaria": {
+        "power": 4,
+        "attack_speed" : 6
+    },
+    
+    "morenci": {
+        "power": 4,
+        "range" : 6
+    },
+    
+    "musgravite": {
+
+    },
+    
+    "painite": {
+        "drawback": 1,
+        "defense" : 188
+    },
+    
+    "kyanite": {
+        "range": 9,
+        "haste" : 9
+    },
+    
+    "variscite": {
+        "range" : 9,
+        "size" : 9
+    },
+    
+    "azurite": {
+        "resistance": 19
+    },
+
+    "aventurine": {
+        "regeneration": 19
+    },
+    
+    "fire_opal": {
+        "piercing": 19
+    }
+}
