@@ -4,13 +4,13 @@ Created by Refract271
 
 ## How to use?  
 
-Simply download or copy-paste the [gemCalculator.py](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/gemCalculator.py), [gemData.json](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/gemData.json) and [reagantData.json](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/reagantData.json)file.  
+Simply download or copy-paste the [gemCalculator.py](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/gemCalculator.py), [gemData.json](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/gemData.json) and [reagantData.json](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/reagantData.json) files.  
 Running the program will print out the gem but it's **not formatted nicely yet**.  
 If you are already familiar with python it's all explained in it but down below is a *slightly* more in-depth explanation.
 
 ### Calling the function :
 
-You will need to edit the line that calls the function and give it the arguments you want to then run the code:
+You will need to edit the 2 lines that define the gems you want to fuse and give them the arguments you want to then run the code, if you don't want to fuse just print the one you want:
 
 ```python
 firstJewel = makeJewel("malachite", "arcane_salt", "bone")
