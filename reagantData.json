@@ -1,0 +1,95 @@
+{
+    "seaweed": {
+        "air_capacity": 5,
+        "prefix" : "-Breathing"
+    },
+
+    "auric_seaweed": {
+        "air_capacity": 10,
+        "prefix" : "-Breathing"
+    },
+
+    "bone": {
+        "attack_destruction": 5,
+        "prefix" : "-Bursting"
+    },
+
+    "thornflower": {
+        "attack_destruction": 10,
+        "prefix" : "-Bursting"
+    },
+
+    "amphibious_bloom": {
+        "attack_knockback": 5,
+        "prefix" : "-Forceful"
+    },
+
+    "aeroplast": {
+        "attack_knockback": 10,
+        "prefix" : "-Forceful"
+    },
+
+    "metal_scrap": {
+        "blocking_power": 1.3,
+        "prefix" : "-Blocking"
+    },
+
+    "golden_apple": {
+        "blocking_power": 2.5,
+        "prefix" : "-Blocking"
+    },
+
+    "lunar_moss": {
+        "movement_speed": 2.5,
+        "prefix" : "-Adranis-Agility"
+    },
+
+    "luminous_coral": {
+        "movement_speed": 5,
+        "prefix" : "-Adranis-Agility"
+    },
+
+    "arcane_salt": {
+        "energy_efficiency": 1.3,
+        "prefix" : "-Energy"
+    },
+
+    "coppershroom": {
+        "energy_efficiency": 2.5,
+        "prefix" : "-Energy"
+    },
+
+    "toxic_seawater_bottle": {
+        "swimming_speed": 2.5,
+        "prefix" : "-Aquatic"
+    },
+
+    "stormsalt": {
+        "swimming_speed": 5,
+        "prefix" : "-Aquatic"
+    },
+
+    "caustic_fabric": {
+        "potency_boost": 1.3,
+        "prefix" : "-Potency"
+    },
+
+    "tartarus_tears": {
+        "potency_boost": 2.5,
+        "prefix" : "-Potency"
+    },
+
+    "red_urchin_spine": {
+        "status_duration": 1.3,
+        "prefix" : "-Affliction"
+    },
+
+    "poisonous_tooth": {
+        "status_duration": 2.5,
+        "prefix" : "-Affliction"
+    },
+
+    "": {
+        "prefix": ""
+    }
+}
