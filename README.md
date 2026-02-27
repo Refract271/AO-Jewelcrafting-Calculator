@@ -1,5 +1,5 @@
 # AO-Jewelcrafting-Calculator
-an implementation of the jewelcrafting system in the game [Arcane Odyssey](https://www.roblox.com/games/3272915504/Arcane-Odyssey). But in python and with unlimited ressources ofc   
+an implementation of the jewelcrafting system in the game [Arcane Odyssey](https://www.roblox.com/games/3272915504/Arcane-Odyssey). But in python and with unlimited ressources ofc.     
 Created by Refract271
 
 ## How to use?  
