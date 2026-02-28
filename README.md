@@ -4,7 +4,7 @@ Created by Refract271
 
 ## How to use?  
 
-Simply download or copy-paste the [gemCalculator.py](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/gemCalculator.py), [gemData.json](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/gemData.json) and [reagantData.json](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/reagantData.json) files.  
+Simply download or copy-paste the [gemCalculator.py](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/gemCalculator.py), [gemData.json](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/gemData.json) and [reagantData.json](https://github.com/Refract271/AO-Jewelcrafting-Calculator/blob/main/reagantData.json) files. You can also download and extract the zip in releases.   
 Running the program will print out the gem but it's **not formatted nicely yet**.  
 If you are already familiar with python it's all explained in it but down below is a *slightly* more in-depth explanation.
 
