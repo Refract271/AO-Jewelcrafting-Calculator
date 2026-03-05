@@ -35,6 +35,6 @@ All the arguments are explained in the code but here is a run-through, **the nam
 > Respect the *types* of the **arguments** or it will just error and not work.
 
 ## Future Updates + Contact 
-This still need to be made easilty compatible with my gem set calculator and the output looks trash rn. If someone knows how to make an interfact for it don't hesitate to DM on discord.
+This still need to be made easilty compatible with my gem set calculator and the output looks trash rn. If someone knows how to make an interface for it don't hesitate to DM me on discord.
 
 If you have questions DM **Refract271** in the Official AO discord server.
